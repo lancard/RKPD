@@ -1,0 +1,51 @@
+NewMarine RKPD VFR SCENERY v1.0
+
+FSX 기준 설치방법
+1. 압축해제후 폴더를 컴퓨터 내의 FSX -> Addon Scenery 폴더에 넣어주시기 바랍니다.
+2. FSX를 실행한 후 Setting에 들어가 Addon Scenery항목으로 들어갑니다
+3. add를 클릭한 후 폴더 경로를 따라 이동한 뒤 NewMarine RKPD VFR폴더를 선택합니다
+4. 밑의 확인버튼을 클릭합니다
+5. 선택창 내 하얀색 화면 아무곳을 클릭합니다
+6. Addon Scenery List 창 밑 OK를 누르면 적용이 됩니다.
+
+시너리 설치시 유의사항
+1. Scenery 의 표시를 Normal 이상으로 설정해 주시기 바랍니다
+2. 본 Scenery의 Photoreal Scenery는 야간 텍스쳐를 구현하지 않았습니다.
+기존에 가지고 계시던 Photoreal Scenery를 사용하실 분은 scenery 폴더 내의 다음 파일을 지우고 적용하시기 바랍니다
+- Photo JEJU E 14.bgl
+- Photo JEJU W 14.bgl
+- Photo RKPD 19 01.bgl
+- Photo RKPD 19 02.bgl
+- Photo RKPD YEONGJU 17.bgl
+
+3. 충돌을 방지하기 위하여 기존에 가지고 계시던 제주도의 Photoreal Scenery 및 RKPD(정석비행장)의 시너리는 제거 후 설치하시기 바랍니다.
+
+Specification(v1.0)
+
+- RKPD AIRPORT
+-- Updated Taxiway, RWY, Apron PSN
+-- Updated Navaid(ILS, LOC, DME)
+-- Updated Airport Object(Hanger, Tower, Flight Training Center, Windsocks, Navaids)
+-- Updated Airport Ground Polygon(Taxiway, Apron, Parking)
+
+- RKPD VFR
+-- Updated Photoreal scenery of JEJU(NO Night Texture)
+--- Background for JEJU Island(LOD 14)
+--- Background for RKPD and Yeongju Mountain(LOD 17)
+--- Background for RKPD(LOD 19)
+
+Tested Specification
+- FSX:SE
+- Intelcore I5 Haswell CPU
+- NVIDIA GTX 1050 Ti Graphic Card
+- 8GB DDR3 RAM
+
+Reference
+- AIS(ais.casa.go.kr)
+- https://thebluesky.info/259
+- https://carolina.tistory.com/139
+- Thanks to Soo Han Kim, Picture Supply for reference 
+- Google earth(earth.google.com)
+
+Copyright
+- Refer Copyright Policy File
