@@ -31,7 +31,6 @@ Specification(v1.0)
 - RKPD VFR
 -- Updated Photoreal scenery of JEJU(NO Night Texture)
 --- Background for JEJU Island(LOD 14)
---- Background for RKPD and Yeongju Mountain(LOD 17)
 --- Background for RKPD(LOD 19)
 
 Tested Specification
