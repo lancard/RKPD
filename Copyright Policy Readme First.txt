@@ -31,7 +31,7 @@ choiminsuhworker@naver.com
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-Copyright in 2020 Choi Minseo, without Photoreal Scenery Background data, in case of NewMarine RKPD VFR SCENERY v1.1
+Copyright in 2020 Choi Minseo, without Photoreal Scenery Background data, in case of NewMarine RKPD v1.2
 https://blog.naver.com/choiminsuh/221878121717
 Photoreal Scenery Background data Copyright in 2020 Google
 
