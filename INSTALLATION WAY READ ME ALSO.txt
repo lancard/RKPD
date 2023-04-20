@@ -1,0 +1,61 @@
+﻿NewMarine RKPD v1.3
+
+P3D 기준 설치방법
+1. 압축해제후 폴더를 컴퓨터 내의 P3D Addon Scenery 지정 폴더에 넣어주시기 바랍니다.
+2. P3D를 실행한 후 scenery에 들어가 Add를 클릭합니다.
+3. 폴더 경로를 따라 이동한 뒤 NewMarine RKPD 폴더를 선택합니다
+4. 확인버튼을 클릭합니다
+5. OK를 누르면 적용이 됩니다.
+
+시너리 설치시 유의사항
+1. Scenery 의 표시를 Normal 이상으로 설정해 주시기 바랍니다
+
+2. 충돌을 방지하기 위하여 기존에 가지고 계시던 제주도의 Photoreal Scenery 및 RKPD(정석비행장)의 시너리는 제거 후 설치하시기 바랍니다.
+Update log
+
+Update(v1.3)
+
+-RKPD AIRPORT
+-- Deleted Airport Object(RKPD LOGO)
+-- Updated version for P3Dv5
+
+p.s 업데이트 늦어 죄송합니다.. 현실에 묶여 업데이트 할 시간이 자주 없네요...
+
+Update(v1.2)
+
+-RKPD AIRPORT
+-- Updated Airport Object(Domitory)
+-- Updated Ground Object(Greenhouse, Jeongseok Aero Museum)
+
+- RKPD VFR
+-- Deleted All VFR Scenery
+
+Update(v1.1)
+
+- RKPD AIRPORT
+-- Updated Taxiway, RWY, Apron PSN
+-- Updated Navaid(ILS, LOC, DME)
+-- Updated Airport Object(Hanger, Tower, Flight Training Center, Windsocks, Navaids)
+-- Updated Airport Ground Polygon(Taxiway, Apron, Parking)
+
+- RKPD VFR
+-- Updated Photoreal scenery of JEJU(NO Night Texture)
+--- Background for JEJU Island(LOD 14)
+--- Background for RKPD and Yeongju Mountain(LOD 17)
+--- Background for RKPD(LOD 19)
+
+Tested Specification
+- P3Dv4
+- Intelcore I5 Haswell CPU
+- NVIDIA GTX 1050 Ti Graphic Card
+- 8GB DDR3 RAM
+
+Reference
+- AIS(ais.casa.go.kr)
+- https://thebluesky.info/259
+- https://carolina.tistory.com/139
+- Thanks to Soo Han Kim, Picture Supply for reference 
+- Google earth(earth.google.com)
+
+Copyright
+- Refer Copyright Policy File
